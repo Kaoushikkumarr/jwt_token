@@ -1,5 +1,5 @@
 # jwt_token
-Generating JWT token which is used for Authentication purpose.
+''' Generating JWT token which is used for Authentication purpose. '''
 
 # Intelligent concept to be learnt over here.
 
